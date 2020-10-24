@@ -27,7 +27,7 @@
 
 - **Flight Manuals** (for Staff & Mods)
   - [Moderator Handbook](moderator-handbook.md)
-  - [Reply Templates](moderator-handbook?id=using-reply-templates)
+  - [Reply Templates](using-reply-template.md)
   - [DevOps Handbook](devops.md)
 
 ---
